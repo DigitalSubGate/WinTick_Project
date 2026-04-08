@@ -2,11 +2,11 @@
 
 ![WinTick Interface](preview.png)
 
-[EN] A smart productivity tool for remote workers and office staff. 
-[CN] 智能闹钟：支持鼠标动作模拟以防止电脑休眠，具备多语言界面及自定义铃声功能。
-[ES] Una herramienta de productividad inteligente para el trabajo remoto y la oficina.
-[FR] Un outil de productivité intelligent pour le télétravail et le bureau.
-[RU] Умный будильник для работы и дома. Имитирует движение мыши и запускает программы.
+* 🌐 **[EN]** A smart productivity tool for remote workers and office staff.
+* 🇨🇳 **[CN]** 智能闹钟：支持鼠标动作模拟以防止电脑休眠，具备多语言界面及自定义铃声功能。
+* 🇪🇸 **[ES]** Una herramienta de productividad inteligente para el trabajo remoto y la oficina.
+* 🇫🇷 **[FR]** Un outil de productivité intelligent pour le télétravail et le bureau.
+* 🇷🇺 **[RU]** Умный будильник для работы и дома. Имитирует движение мыши и запускает программы.
 
 ---
 
@@ -33,16 +33,18 @@ If you find WinTick useful, you can support further development via cryptocurren
 Download the latest version here: [Releases](https://github.com/DigitalSubGate/WinTick_Project/releases/tag/v1.7)
 ---
 
+---
+
 ## 👨‍💻 About the Author / Об авторе / 关于作者
 
-**[EN]** Check out my other projects and premium services:
-**[CN]** 查看我的其他项目和优质服务:
-**[ES]** Mira mis otros proyectos y servicios premium:
-**[FR]** Découvrez mes autres projets et services premium:
-**[AR]** تحقق من مشاريعي الأخرى وخدماتي المميزة:
-**[RU]** Посмотрите мои другие проекты и премиум-сервисы:
-
-🚀 **[DigitalSubGate Official Website](https://github.io)**
+Check out my other projects and premium services:
+* 🌐 **[EN]** [DigitalSubGate Official Website](https://digitalsubgate.github.io/DigitalSubGate/)
+* 🇨🇳 **[CN]** [访问官方网站](https://digitalsubgate.github.io/DigitalSubGate/) — 查看更多优质项目
+* 🇪🇸 **[ES]** [Sitio web oficial](https://digitalsubgate.github.io/DigitalSubGate/) — Otros proyectos y servicios
+* 🇫🇷 **[FR]** [Site officiel](https://digitalsubgate.github.io/DigitalSubGate/) — Autres projets et services
+* 🇷🇺 **[RU]** [Официальный сайт](https://digitalsubgate.github.io/DigitalSubGate/) — Другие проекты и сервисы
 
 ---
+
+
 
