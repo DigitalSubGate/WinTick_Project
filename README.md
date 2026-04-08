@@ -31,3 +31,18 @@ If you find WinTick useful, you can support further development via cryptocurren
 
 ## 📥 Download / Скачать
 Download the latest version here: [Releases](https://github.com/DigitalSubGate/WinTick_Project/releases/tag/v1.7)
+---
+
+## 👨‍💻 About the Author / Об авторе / 关于作者
+
+**[EN]** Check out my other projects and premium services:
+**[CN]** 查看我的其他项目和优质服务:
+**[ES]** Mira mis otros proyectos y servicios premium:
+**[FR]** Découvrez mes autres projets et services premium:
+**[AR]** تحقق من مشاريعي الأخرى وخدماتي المميزة:
+**[RU]** Посмотрите мои другие проекты и премиум-сервисы:
+
+🚀 **[DigitalSubGate Official Website](https://github.io)**
+
+---
+
